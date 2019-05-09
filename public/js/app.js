@@ -1,4 +1,4 @@
-console.log('Client side javascript file is loaded');
+console.log('Client side javascript file is loaded!');
 
 const search = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
